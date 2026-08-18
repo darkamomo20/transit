@@ -1,0 +1,11 @@
+{
+  "name": "Remix Transit AI - European Real Transit",
+  "description": "Next-generation real-time European public transit app across 12+ capitals with Metro, Bus, and Train/RER lines, subscription payment plans, optional account registration, and mobile device IP telemetry tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
